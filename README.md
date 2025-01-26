@@ -1,13 +1,13 @@
 ## ABOUT ME
 
-name : ```Alif Developer```</br>
+name : ```Nayan Developer```</br>
 age : ```20```</br>
-link : [facebook](https://www.facebook.com/profile.php?id=100075421394195).</br>
+link : [facebook](https://www.facebook.com/profile.php?id=100000959749712).</br>
 
 ## CREDITS
 
 original file : [BotPack](https://replit.com/@YanMaglinte/BotPack?v=1) by ```YanMaglinte```</br>
-modified : [ALIF](https://www.facebook.com/profile.php?id=100075421394195) by ```Alif Developer```
+modified : [NAYAN](https://replit.com/@xaikonayan/NAYAN-BOT?v=1) by ```Nayan Developer```
 
 ## CONFIG AND CUSTOM
 
@@ -67,4 +67,5 @@ step 8 : click on it and then click on ``copy fbstate``.</br>
 step 9 : paste the copied data into the ``Nayanstate.json`` file.</br>
 
 step 10 : finally, click on ``run`` to initiate the bot.</br>
+
 
